@@ -21,9 +21,9 @@ MANAGERS = ADMINS
 DATABASES = {
     'default': {
 		'ENGINE': 'django.db.backends.mysql',
-		'NAME': 'xdemo',
-          'USER': 'root',
-          'PASSWORD': '123456',
+		'NAME': 'pysearch',
+          'USER': 'py2operator',
+          'PASSWORD': 'pysearch',
           'HOST': '',
           'PORT': '',
           'OPTIONS': {
