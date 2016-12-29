@@ -7,18 +7,18 @@
       <a href="{% url 'xadmin:index' %}"><i class="fa-fw fa fa-home"></i> {% trans 'Home' %}</a>
     </li>
     {% for item in nav_menu %}
-      <a href="javascript:void(0)" class="app-header"><li class="{% if item.menus %}nav-header{% endif %} {% if item.selected %} active{% endif %}">
+        <a href="javascript:void(0)" class="app-header" style="text-decoration: none;"><li class="{% if item.menus %}nav-header{% endif %} {% if item.selected %} active{% endif %}" style="font-size:14px">
         {% if item.url %}<a href="{{ item.url }}" class="section">{% endif %}
         {% if item.icon %}<i class="fa-fw {{item.icon}}"></i>{% endif %}{{ item.title }}
-        {% if item.url %}</a>{% endif %}
-      </li></a>
+        {% if item.url %}</a>{% endif %}</li>
+            </a><div class="nav-div" style="text-decoration: none;">
       {% for sitem in item.menus %}
-      <li{% if sitem.selected %} class="active"{% endif %}>
+      <li{% if sitem.selected %} class="active"{% endif %} class="demo-pro">
         {% if sitem.url %}<a href="{{ sitem.url }}">{% endif %}
         {% if sitem.icon %}<i class="fa-fw {{sitem.icon}}"></i>{%else%}<i class="fa-fw fa fa-circle-o"></i>{% endif %}
         {{ sitem.title }}</span>{% if sitem.url %}</a>{% endif %}
       </li>
-      {% endfor %}
+      {% endfor %}</div>
     {% endfor %}
     {% view_block 'menu-nav' %}
   </ul>
@@ -31,7 +31,7 @@
     </li>
     {% for item in nav_menu %}
       <li class="app_menu dropdown-submenu {% if item.selected %} active{% endif %}">
-        <a href="#" class="section">
+        <a href="#" class="section" style="font-size:15px;">
           {% if item.icon %}<i class="icon fa-fw {{item.icon}}"></i>
           {% elif item.first_icon %}<i class="icon fa-fw {{item.first_icon}}"></i>
           {%else%}<i class="icon fa-fw fa fa-circle-o"></i>{% endif %}
@@ -51,9 +51,9 @@
   </ul>
 {% endblock navbar_sm %}
 <script type="text/javascript">
-    $(document).ready(function(){
-        $('.app-header').click(function(e){
-		    $('.app-header li').toggle();
-	    });
-    })
+        $(document).ready(function(){
+            $('.app-header').click(function(e){
+                $(this).next('.nav-div').toggle();
+            })
+        })
 </script>

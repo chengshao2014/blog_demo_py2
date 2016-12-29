@@ -2,27 +2,399 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c91a44-bf64-435a-a36e-69bed0af4f50" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.db" afterPath="$PROJECT_DIR$/data.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/django.mo" afterPath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/django.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" afterPath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/djangojs.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/img/loading.gif" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/img/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/img/ajax-loader.gif" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/img/ajax-loader.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/FontAwesome.otf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2-spinner.gif" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2-spinner.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.png" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2x2.png" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2x2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/demo_app.iml" afterPath="$PROJECT_DIR$/.idea/demo_app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/adminx.py" afterPath="$PROJECT_DIR$/app/adminx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/app/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/migrations/0002_idc_groups.py" afterPath="$PROJECT_DIR$/app/migrations/0002_idc_groups.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/migrations/0003_host_administrator.py" afterPath="$PROJECT_DIR$/app/migrations/0003_host_administrator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/migrations/__init__.py" afterPath="$PROJECT_DIR$/app/migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tests.py" afterPath="$PROJECT_DIR$/app/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data.json" afterPath="$PROJECT_DIR$/data.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/__init__.py" afterPath="$PROJECT_DIR$/demo/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/settings.py" afterPath="$PROJECT_DIR$/demo/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/urls.py" afterPath="$PROJECT_DIR$/demo/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/wsgi.py" afterPath="$PROJECT_DIR$/demo/wsgi.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/.tx/config" afterPath="$PROJECT_DIR$/xadmin/.tx/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/__init__.py" afterPath="$PROJECT_DIR$/xadmin/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/adminx.py" afterPath="$PROJECT_DIR$/xadmin/adminx.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/apps.py" afterPath="$PROJECT_DIR$/xadmin/apps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/filters.py" afterPath="$PROJECT_DIR$/xadmin/filters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/forms.py" afterPath="$PROJECT_DIR$/xadmin/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/layout.py" afterPath="$PROJECT_DIR$/xadmin/layout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/de_DE/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/en/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/es_MX/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/eu/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/id_ID/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/ja/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/lt/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/nl_NL/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/pl/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/pt_BR/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/ru_RU/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/django.po" afterPath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/django.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/djangojs.po" afterPath="$PROJECT_DIR$/xadmin/locale/zh_Hans/LC_MESSAGES/djangojs.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/xadmin/migrations/0001_initial.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/migrations/0002_log.py" afterPath="$PROJECT_DIR$/xadmin/migrations/0002_log.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/migrations/0003_auto_20160715_0100.py" afterPath="$PROJECT_DIR$/xadmin/migrations/0003_auto_20160715_0100.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/migrations/__init__.py" afterPath="$PROJECT_DIR$/xadmin/migrations/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/models.py" afterPath="$PROJECT_DIR$/xadmin/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/__init__.py" afterPath="$PROJECT_DIR$/xadmin/plugins/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/actions.py" afterPath="$PROJECT_DIR$/xadmin/plugins/actions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/aggregation.py" afterPath="$PROJECT_DIR$/xadmin/plugins/aggregation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/ajax.py" afterPath="$PROJECT_DIR$/xadmin/plugins/ajax.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/auth.py" afterPath="$PROJECT_DIR$/xadmin/plugins/auth.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/batch.py" afterPath="$PROJECT_DIR$/xadmin/plugins/batch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/bookmark.py" afterPath="$PROJECT_DIR$/xadmin/plugins/bookmark.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/chart.py" afterPath="$PROJECT_DIR$/xadmin/plugins/chart.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/comments.py" afterPath="$PROJECT_DIR$/xadmin/plugins/comments.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/details.py" afterPath="$PROJECT_DIR$/xadmin/plugins/details.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/editable.py" afterPath="$PROJECT_DIR$/xadmin/plugins/editable.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/export.py" afterPath="$PROJECT_DIR$/xadmin/plugins/export.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/filters.py" afterPath="$PROJECT_DIR$/xadmin/plugins/filters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/images.py" afterPath="$PROJECT_DIR$/xadmin/plugins/images.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/inline.py" afterPath="$PROJECT_DIR$/xadmin/plugins/inline.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/language.py" afterPath="$PROJECT_DIR$/xadmin/plugins/language.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/layout.py" afterPath="$PROJECT_DIR$/xadmin/plugins/layout.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/mobile.py" afterPath="$PROJECT_DIR$/xadmin/plugins/mobile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/multiselect.py" afterPath="$PROJECT_DIR$/xadmin/plugins/multiselect.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/passwords.py" afterPath="$PROJECT_DIR$/xadmin/plugins/passwords.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/portal.py" afterPath="$PROJECT_DIR$/xadmin/plugins/portal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/quickfilter.py" afterPath="$PROJECT_DIR$/xadmin/plugins/quickfilter.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/quickform.py" afterPath="$PROJECT_DIR$/xadmin/plugins/quickform.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/refresh.py" afterPath="$PROJECT_DIR$/xadmin/plugins/refresh.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/relate.py" afterPath="$PROJECT_DIR$/xadmin/plugins/relate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/relfield.py" afterPath="$PROJECT_DIR$/xadmin/plugins/relfield.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/sitemenu.py" afterPath="$PROJECT_DIR$/xadmin/plugins/sitemenu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/sortablelist.py" afterPath="$PROJECT_DIR$/xadmin/plugins/sortablelist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/themes.py" afterPath="$PROJECT_DIR$/xadmin/plugins/themes.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/topnav.py" afterPath="$PROJECT_DIR$/xadmin/plugins/topnav.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/utils.py" afterPath="$PROJECT_DIR$/xadmin/plugins/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/wizard.py" afterPath="$PROJECT_DIR$/xadmin/plugins/wizard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/plugins/xversion.py" afterPath="$PROJECT_DIR$/xadmin/plugins/xversion.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/sites.py" afterPath="$PROJECT_DIR$/xadmin/sites.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/component.json" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/themes/bootstrap-theme.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/themes/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/themes/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/themes/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/themes/bootstrap-xadmin.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/themes/bootstrap-xadmin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.form.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.form.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.main.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.mobile.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.mobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.page.dashboard.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.page.dashboard.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugin.aggregation.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugin.aggregation.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugin.formset.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugin.formset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugin.quickfilter.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugin.quickfilter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugins.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.plugins.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.responsive.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.widget.editable.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.widget.editable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.widget.select-transfer.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/css/xadmin.widget.select-transfer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.main.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.page.dashboard.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.page.dashboard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.page.form.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.page.form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.page.list.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.page.list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.actions.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.actions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.batch.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.batch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.bookmark.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.bookmark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.charts.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.charts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.details.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.details.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.editable.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.editable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.filters.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.filters.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.formset.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.formset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.portal.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.portal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.quick-form.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.quick-form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.quickfilter.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.quickfilter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.refresh.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.refresh.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.revision.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.revision.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.sortablelist.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.sortablelist.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.themes.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.themes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.responsive.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.responsive.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.datetime.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.datetime.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.multiselect.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.multiselect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.select-transfer.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.select-transfer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.select.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.widget.select.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/autotype/index.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/autotype/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.min.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-clockpicker/bootstrap-clockpicker.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.bg.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ca.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ca.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.cs.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.cs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.da.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.da.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.de.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.el.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.el.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.es.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fi.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fi.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.he.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.he.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hu.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.id.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.id.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.is.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.it.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ja.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ja.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.kr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.kr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lt.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lv.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.lv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ms.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nb.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nl.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pl.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt-BR.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt-BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.pt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ro.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs-latin.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs-latin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.rs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ru.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sk.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sl.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sv.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sw.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.sw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.th.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.th.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.tr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.uk.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.uk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-CN.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-TW.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-datepicker/js/locales/bootstrap-datepicker.zh-TW.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.min.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/css/bootstrap-image-gallery.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-image-gallery/js/bootstrap-image-gallery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/css/bootstrap-modal.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/css/bootstrap-modal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/js/bootstrap-modal.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/js/bootstrap-modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/js/bootstrap-modalmanager.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-modal/js/bootstrap-modalmanager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-multiselect/css/bootstrap-multiselect.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-multiselect/css/bootstrap-multiselect.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-multiselect/js/bootstrap-multiselect.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-multiselect/js/bootstrap-multiselect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/bootstrap-timepicker.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/bootstrap-timepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/bootstrap-timepicker.min.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/css/bootstrap-timepicker.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/bootstrap-timepicker.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/bootstrap-timepicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/bootstrap-timepicker.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap-timepicker/js/bootstrap-timepicker.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/css/bootstrap.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/excanvas.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/excanvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/excanvas.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/excanvas.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.colorhelpers.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.colorhelpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.aggregate.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.aggregate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.canvas.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.canvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.categories.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.categories.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.crosshair.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.crosshair.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.errorbars.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.errorbars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.fillbetween.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.fillbetween.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.image.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.navigate.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.navigate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.pie.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.pie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.resize.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.selection.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.selection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.stack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.symbol.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.threshold.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.threshold.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.time.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/flot/jquery.flot.time.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/css/font-awesome.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.core.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.core.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.effect.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.effect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.effect.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.mouse.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.sortable.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.widget.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.widget.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery-ui/jquery.ui.widget.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery/jquery.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery/jquery.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/jquery/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/load-image/load-image.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/load-image/load-image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/load-image/load-image.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/load-image/load-image.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_de.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_de.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_en.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_en.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_es.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_es.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_eu.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_eu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_fr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_fr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_hr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_hr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_hu.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_hu.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_it.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_it.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_nl.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_nl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_pt-BR.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_pt-BR.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_pt-PT.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_pt-PT.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_ro.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_ro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_ru.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_ru.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_sk.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_sk.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_sv.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_sv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_tr.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_tr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_ua.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_ua.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_zh-CN.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_zh-CN.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_zh-hans.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/select2/select2_locale_zh-hans.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.bootstrap2.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.bootstrap2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.bootstrap3.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.bootstrap3.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.default.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.default.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.legacy.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.legacy.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/selectize/selectize.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/snapjs/snap.css" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/snapjs/snap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/snapjs/snap.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/snapjs/snap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/snapjs/snap.min.js" afterPath="$PROJECT_DIR$/xadmin/static/xadmin/vendor/snapjs/snap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/404.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/500.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/500.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/complete.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/complete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/confirm.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/confirm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/done.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/done.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/email.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/email.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/password_reset/form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/user/add_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/user/add_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/user/change_password.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/auth/user/change_password.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/base.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/base_site.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/base_site.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/comm.top.setlang.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/comm.top.setlang.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/comm.top.theme.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/comm.top.theme.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/comm.top.topnav.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/comm.top.topnav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/modal_list.left_navbar.quickfilter.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/modal_list.left_navbar.quickfilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_form.before_fieldsets.wizard.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_form.before_fieldsets.wizard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_form.submit_line.wizard.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_form.submit_line.wizard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.nav_form.search_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.nav_form.search_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.nav_menu.bookmarks.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.nav_menu.bookmarks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.nav_menu.filters.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.nav_menu.filters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.results_bottom.actions.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.results_bottom.actions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.results_top.charts.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.results_top.charts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.results_top.date_hierarchy.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.results_top.date_hierarchy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.exports.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.exports.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.layouts.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.layouts.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.refresh.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.refresh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.saveorder.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/blocks/model_list.top_toolbar.saveorder.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/accordion.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/accordion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/base.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/blank.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/blank.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/one.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/stacked.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/stacked.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/tab.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/tab.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/tabular.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/tabular.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/char.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/char.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/checklist.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/checklist.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/date.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/date.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/fk_search.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/fk_search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/list.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/number.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/number.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/quickfilter.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/quickfilter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/rel.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/filters/rel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/forms/transfer.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/forms/transfer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/grids/thumbnails.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/grids/thumbnails.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/box.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/box.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/pagination.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/pagination.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_accordion.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_accordion.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_default.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/submit_line.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/submit_line.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/toggle_back.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/toggle_back.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/toggle_menu.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/includes/toggle_menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/field_value.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/field_value.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/field_value_td.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/field_value_td.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/fieldset.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/fieldset.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/input_group.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/input_group.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/td-field.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/layout/td-field.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/app_index.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/app_index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/batch_change_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/batch_change_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/dashboard.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/invalid_setup.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/invalid_setup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/logged_out.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/logged_out.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/login.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/login.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_dashboard.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_delete_confirm.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_delete_confirm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_delete_selected_confirm.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_delete_selected_confirm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_detail.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_history.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_history.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_list.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/model_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/quick_detail.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/quick_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/quick_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/quick_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/recover_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/recover_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/recover_list.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/recover_list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/revision_diff.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/revision_diff.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/views/revision_form.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/views/revision_form.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/addform.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/addform.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/base.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/chart.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/chart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/list.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/qbutton.html" afterPath="$PROJECT_DIR$/xadmin/templates/xadmin/widgets/qbutton.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templatetags/__init__.py" afterPath="$PROJECT_DIR$/xadmin/templatetags/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/templatetags/xadmin_tags.py" afterPath="$PROJECT_DIR$/xadmin/templatetags/xadmin_tags.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/util.py" afterPath="$PROJECT_DIR$/xadmin/util.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/vendors.py" afterPath="$PROJECT_DIR$/xadmin/vendors.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/__init__.py" afterPath="$PROJECT_DIR$/xadmin/views/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/base.py" afterPath="$PROJECT_DIR$/xadmin/views/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/dashboard.py" afterPath="$PROJECT_DIR$/xadmin/views/dashboard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/delete.py" afterPath="$PROJECT_DIR$/xadmin/views/delete.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/detail.py" afterPath="$PROJECT_DIR$/xadmin/views/detail.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/edit.py" afterPath="$PROJECT_DIR$/xadmin/views/edit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/form.py" afterPath="$PROJECT_DIR$/xadmin/views/form.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/list.py" afterPath="$PROJECT_DIR$/xadmin/views/list.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/views/website.py" afterPath="$PROJECT_DIR$/xadmin/views/website.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xadmin/widgets.py" afterPath="$PROJECT_DIR$/xadmin/widgets.py" />
     </list>
     <ignored path="demo_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,7 +418,7 @@
     <favorites_list name="demo_app" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/settings.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,11 +432,21 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xadmin/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.384615">
+              <caret line="83" column="67" selection-start-line="83" selection-start-column="63" selection-end-line="83" selection-end-column="67" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6164383">
+              <caret line="121" column="42" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,28 +466,33 @@
       <file leaf-file-name="base_site.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/base_site.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.2173913">
+            <state vertical-scroll-proportion="-1.6666666">
               <caret line="30" column="22" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xadmin.plugin.quickfilter.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.quickfilter.js">
+      <file leaf-file-name="sitemenu_default.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.891892">
-              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-              <folding />
+            <state vertical-scroll-proportion="-2.8985507">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="15" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#ul#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#a#0;n#ul#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#ul#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#1;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sitemenu_default.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_default.html">
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xadmin/views/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5108557">
-              <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+            <state vertical-scroll-proportion="-5.8974357">
+              <caret line="340" column="17" selection-start-line="340" selection-start-column="12" selection-end-line="340" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -164,8 +551,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,16 +605,98 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
   </component>
   <component name="RunManager" selected="Django server.demo_app">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,6 +718,143 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="demo_app" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="demo_app" type="Python.DjangoServer" factoryName="Django server">
@@ -281,6 +885,9 @@
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="52c91a44-bf64-435a-a36e-69bed0af4f50" name="默认的" comment="" />
@@ -300,29 +907,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1014" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1014" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3668639" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37159765" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09822485" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -332,7 +947,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/wsgi.py">
+    <entry file="file://$PROJECT_DIR$/demo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -340,13 +955,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models.py">
+    <entry file="file://$PROJECT_DIR$/xadmin/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0442805">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#28#0" expanded="false" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/adminx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/base_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -354,7 +994,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -372,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.09578544">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -388,9 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6457565">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -398,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="172" column="33" selection-start-line="172" selection-start-column="33" selection-end-line="172" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -406,9 +1040,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -416,19 +1047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -446,7 +1064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,7 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37057728">
           <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4">
           <caret line="2" column="51" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,23 +1101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40650406">
           <caret line="0" column="238" selection-start-line="0" selection-start-column="238" selection-end-line="0" selection-end-column="238" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_accordion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80543935">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10507881">
           <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -530,21 +1127,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/views/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.469352">
-          <caret line="243" column="37" selection-start-line="243" selection-start-column="33" selection-end-line="243" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/edit_inline/accordion.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.4510167">
           <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,9 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4849624">
           <caret line="30" column="31" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -568,14 +1151,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/base_site.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2173913">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/filters/quickfilter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.053304903">
@@ -586,16 +1161,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xadmin/static/xadmin/js/xadmin.plugin.quickfilter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.891892">
+        <state vertical-scroll-proportion="0.49200493">
           <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadmin/plugins/sitemenu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.105150215">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/base_site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6666666">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadmin/views/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8974357">
+          <caret line="340" column="17" selection-start-line="340" selection-start-column="12" selection-end-line="340" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xadmin/templates/xadmin/includes/sitemenu_default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5108557">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
+        <state vertical-scroll-proportion="-2.8985507">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#a#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#ul#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xadmin/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.384615">
+          <caret line="83" column="67" selection-start-line="83" selection-start-column="63" selection-end-line="83" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6164383">
+          <caret line="121" column="42" selection-start-line="121" selection-start-column="42" selection-end-line="121" selection-end-column="42" />
           <folding />
         </state>
       </provider>
