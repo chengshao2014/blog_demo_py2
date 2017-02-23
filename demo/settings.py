@@ -22,8 +22,8 @@ DATABASES = {
     'default': {
 		'ENGINE': 'django.db.backends.mysql',
 		'NAME': 'pysearch',
-          'USER': 'py2operator',
-          'PASSWORD': 'pysearch',
+          'USER': 'root',
+          'PASSWORD': '123456',
           'HOST': '',
           'PORT': '',
           'OPTIONS': {
